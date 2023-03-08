@@ -6,7 +6,10 @@ This text editor that runs in the browser. The app is a single-page application 
 
 
 ## Link to Application
+https://quiet-river-99620.herokuapp.com/
 
+
+![Screenshot](screenshot.png)
 
 
 ## License
